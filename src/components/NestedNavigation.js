@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const Test = () => {
+const NestedNavigation = () => {
   return (
     <View>
-      <Text>Test</Text>
+      <Text>NestedNavigation</Text>
     </View>
   )
 }
 
-export default Test
+export default NestedNavigation
 
 const styles = StyleSheet.create({})
